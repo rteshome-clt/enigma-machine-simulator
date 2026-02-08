@@ -44,7 +44,7 @@ Rotor Configuration
 * Outer Rotor: 3
 * Initial Positions: ###
 
-Input 
+Add Input and Then Press Encrypt
 ```
 AAA
 ```
@@ -62,7 +62,7 @@ Rotor Configuration
 * Outer Rotor: 4
 * Initial Positions: EST
 
-Input 
+Add Input and Then Press Decrypt 
 ```
 CSHIAWDFGDCOE#EZKJHRWAZDDCBCILON#PKUJEXEXSHINZ
 ```
